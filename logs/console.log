@@ -1,32 +1,3 @@
 [Game] Loaded stats server on port 88
-[Game] Listening on port 443
+[Game] Listening on port 444
 [Game] Current game mode is Free For All
->help
-[Console] ======================== HELP ======================
-[Console] addbot [number]              : add bot to the server
-[Console] kickbot [number]             : kick an amount of bots
-[Console] board [string] [string] ...  : set scoreboard text
-[Console] boardreset                   : reset scoreboard text
-[Console] change [setting] [value]     : change specified settings
-[Console] clear                        : clear console output
-[Console] color [PlayerID] [R] [G] [B] : set cell(s) color by client ID
-[Console] exit                         : stop the server
-[Console] food [X] [Y] [mass]          : spawn food at specified Location
-[Console] gamemode [id]                : change server gamemode
-[Console] kick [PlayerID]              : kick player or bot by client ID
-[Console] kill [PlayerID]              : kill cell(s) by client ID
-[Console] killall                      : kill everyone
-[Console] mass [PlayerID] [mass]       : set cell(s) mass by client ID
-[Console] merge [PlayerID]             : merge all client's cells once
-[Console] name [PlayerID] [name]       : change cell(s) name by client ID
-[Console] playerlist                   : get list of players and bots
-[Console] pause                        : pause game , freeze all cells
-[Console] reload                       : reload config
-[Console] resetantiteam                : reset anti-team effect on client
-[Console] status                       : get server status
-[Console] tp [PlayerID] [X] [Y]        : teleport player to specified location
-[Console] virus [X] [Y] [mass]         : spawn virus at a specified Location
-[Console] ====================================================
->quit
-[Console] Invalid Command!
->exit
